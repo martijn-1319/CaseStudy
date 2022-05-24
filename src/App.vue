@@ -15,7 +15,10 @@
                 <div>Lorem ipsum dolor</div>
                 <FeaturedCardStat>32</FeaturedCardStat>
               </FeaturedCardTop>
-              <v-card-text> Lorem ipsum dolor </v-card-text>
+              <v-card-text>
+                Behaalde punten
+                <Badge />
+              </v-card-text>
             </FeaturedCard>
           </v-col>
           <v-col :cols="12" md="auto grow">
