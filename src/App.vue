@@ -8,6 +8,8 @@
         voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
         clita kasd gubergren, no sea takimata sanctus.
 
+        mijn eerste aanpassing
+
         <v-row>
           <v-col :sm="12" style="max-width: 285px">
             <FeaturedCard>
